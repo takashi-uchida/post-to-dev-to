@@ -2,7 +2,7 @@
   "name": "dev.to",
   "repository": {
     "type": "git",
-    "url": "https://github.com/takashi-uchida/post-to-dev-to"
+    "url": "https://github.com/takashi-uchida/post-to-dev-to.git"
   },
   "scripts": {
     "prettier": "prettier",
